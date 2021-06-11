@@ -1,0 +1,11 @@
+.principal{
+    display: flexbox;
+}
+.card{
+    margin: 20px;
+    display: inline-table;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+}
